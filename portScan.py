@@ -8,7 +8,7 @@
 import socket
 import sys
 
-HOST = raw_input("Entre com o ip:")  #defindo endereco de import
+HOST = raw_input("Entre com o ip:")  #defindo endereco de ip
 PORT = 0  #definindo porta
 #varrendo as portas
 for PORT in range(65000):
