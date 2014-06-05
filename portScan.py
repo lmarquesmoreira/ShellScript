@@ -4,6 +4,7 @@
 #Autor: Frederico Gomes
 #Versao: 1.2
 
+#hehehe
 #importando modulos
 import socket
 import sys
